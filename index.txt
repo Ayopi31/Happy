@@ -11,7 +11,7 @@
 <body>
 <!-- partial:index.partial.html -->
 <style>
-	@import url(https://fonts.googleapis.com/css2?family=Quicksand:wght@400;700&display=swap);
+	<img src="mi_imagen.jpg" alt="Descripción de mi imagen">
 
 *,
 ::before,
